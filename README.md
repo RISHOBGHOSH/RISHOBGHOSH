@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [:- https://github.com/RISHOBGHOSH](:- https://github.com/RISHOBGHOSH)
+- 👨‍💻 All of my projects are available at [:- https://github.com/RISHOBGHOSH]
 
 - 💬 Ask me about **SQL Codes, Power BI**
 
