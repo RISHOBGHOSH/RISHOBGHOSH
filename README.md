@@ -42,7 +42,7 @@ I am passionate about continuously learning and improving my skills, and I am al
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [:- https://github.com/RISHOBGHOSH]
+- 👨‍💻 All of my projects are available at [:- [https://github.com/RISHOBGHOSH](https://github.com/RISHOBGHOSH/Project_on_Data_Analysis)]
 
 - 💬 Ask me about **SQL Codes, Power BI , Python**
 
