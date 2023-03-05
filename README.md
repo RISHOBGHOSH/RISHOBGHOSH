@@ -9,6 +9,8 @@
 
 As a data-driven and results-oriented Data Analyst, I have 2 years of experience in analyzing and interpreting complex data sets to drive business decisions. My expertise includes using SQL, Python, and Power Bi  to manipulate and analyze large datasets, as well as creating data visualizations and reports to communicate findings and insights to stakeholders.
 
+
+
 On my GitHub profile, you will find a portfolio of my data analysis projects, including:
 
 - [Netflix EDA]: Exploratory Data Analysis (EDA) is a crucial step in any data science project that helps to gain a deeper understanding of the data and identify patterns, relationships, and trends within the data. In this EDA project on Netflix data, the goal is to explore and analyze the data to gain insights into the characteristics of the Netflix content and the preferences of its users.
